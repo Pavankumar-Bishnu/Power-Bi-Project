@@ -52,7 +52,7 @@ This dataset (or) project provides a comprehensive overview of potential loan ap
 - Loan Patterns              :Loan amounts mostly cap at ₹1.5 Lakh.
 - Average tenure of 11 years suggests mid-to-long-term borrowings.
 
-- Credit & Loan Insights <a href="https://github.com/Pavankumar-Bishnu/Power-Bi-Project/blob/main/Credit_Data.csv"> Dashboard Interaction </a>
+- Credit & Loan Insights <a href="https://github.com/Pavankumar-Bishnu/Power-Bi-Project/blob/main/Credit%20%26%20Load%20Insights.png"> Dashboard Interaction </a>
   
 ![Income & Risk Analysis](https://github.com/Pavankumar-Bishnu/Power-Bi-Project/blob/main/Income%20%26%20Risk%20Analysis.png)
 
